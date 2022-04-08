@@ -1,0 +1,14 @@
+C:\Users\Fatime\source\repos\FileStream\FileStream\bin\Debug\netcoreapp3.1\FileStream.exe
+C:\Users\Fatime\source\repos\FileStream\FileStream\bin\Debug\netcoreapp3.1\FileStream.deps.json
+C:\Users\Fatime\source\repos\FileStream\FileStream\bin\Debug\netcoreapp3.1\FileStream.runtimeconfig.json
+C:\Users\Fatime\source\repos\FileStream\FileStream\bin\Debug\netcoreapp3.1\FileStream.runtimeconfig.dev.json
+C:\Users\Fatime\source\repos\FileStream\FileStream\bin\Debug\netcoreapp3.1\FileStream.dll
+C:\Users\Fatime\source\repos\FileStream\FileStream\bin\Debug\netcoreapp3.1\FileStream.pdb
+C:\Users\Fatime\source\repos\FileStream\FileStream\obj\Debug\netcoreapp3.1\FileStream.csproj.AssemblyReference.cache
+C:\Users\Fatime\source\repos\FileStream\FileStream\obj\Debug\netcoreapp3.1\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatime\source\repos\FileStream\FileStream\obj\Debug\netcoreapp3.1\FileStream.AssemblyInfoInputs.cache
+C:\Users\Fatime\source\repos\FileStream\FileStream\obj\Debug\netcoreapp3.1\FileStream.AssemblyInfo.cs
+C:\Users\Fatime\source\repos\FileStream\FileStream\obj\Debug\netcoreapp3.1\FileStream.csproj.CoreCompileInputs.cache
+C:\Users\Fatime\source\repos\FileStream\FileStream\obj\Debug\netcoreapp3.1\FileStream.dll
+C:\Users\Fatime\source\repos\FileStream\FileStream\obj\Debug\netcoreapp3.1\FileStream.pdb
+C:\Users\Fatime\source\repos\FileStream\FileStream\obj\Debug\netcoreapp3.1\FileStream.genruntimeconfig.cache
